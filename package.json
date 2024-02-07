@@ -1,0 +1,23 @@
+{
+  "name": "tech-blog",
+  "version": "1.0.0",
+  "description": "テックブログ用のサンプルリポジトリです forkして使ってください",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morisekntr/tech-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morisekntr/tech-blog/issues"
+  },
+  "homepage": "https://github.com/morisekntr/tech-blog#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.152"
+  }
+}
